@@ -17,4 +17,4 @@ def fizzbuzz_niteshkeswani(x_1,x_101):
 		else:
 			print(num)
 	return()
-fizzbuzz(1,101)
+fizzbuzz_niteshkeswani(1,101)
