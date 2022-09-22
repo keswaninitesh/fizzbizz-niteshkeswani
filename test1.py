@@ -10,5 +10,11 @@ def fizzbuzz_niteshkeswani(x_1,x_101):
 			continue
 		elif num % 3 == 0:
 			print("Fizz" +str(num))
+			continue
 		elif num % 5 == 0:
 			print("Buzz" +str(num))
+			continue
+		else:
+			print(num)
+	return()
+fizzbuzz(1,101)
